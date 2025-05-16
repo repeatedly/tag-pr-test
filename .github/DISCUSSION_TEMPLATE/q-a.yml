@@ -29,7 +29,7 @@ body:
         質問にスムーズに回答するため、試した環境について記入してください。
       value: |
         - ライブラリ・ツールのバージョン:
-	- OSのバージョン:
+        - OSのバージョン:
       render: markdown
   - type: textarea
     id: logs
